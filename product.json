@@ -1,0 +1,16 @@
+{
+  "id": "app219-salary-ai",
+  "name": "App219 Salary AI",
+  "tagline": "AI-powered finance solution",
+  "description": "AI-powered app219-salary-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "finance",
+  "tags": ["ai", "finance"],
+  "url": "https://auroramarket.org/app219-salary-ai",
+  "demo": "https://21leahcimhtiek-oss.github.io/app219-salary-ai",
+  "repo": "https://github.com/21leahcimhtiek-oss/app219-salary-ai",
+  "stack": ["TypeScript", "Next.js", "React"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
